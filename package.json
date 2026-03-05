@@ -103,7 +103,7 @@
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "all-contributors-cli": "^6.0.0",
-    "axios": "^0.22.0",
+    "axios": "^0.30.3",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^11.0.0-beta.2",
     "babel-jest": "^27.0.0",
@@ -162,9 +162,9 @@
     "to-string-loader": "^1.1.5",
     "typescript": "^3.7.2",
     "unist-util-visit": "^1.4.0",
-    "webpack": "^4.29.6",
+    "webpack": "^5.105.4",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^5.2.1"
   },
   "workspaces": {
     "packages": [
